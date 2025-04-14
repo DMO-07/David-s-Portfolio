@@ -68,7 +68,8 @@ To deliver data-driven insights on vehicle sales performance, cost efficiency, a
 
 ![Image](https://github.com/user-attachments/assets/bd2a917f-cce5-4db9-b3c6-83caf38e5389)
 
-## Image of Dashboard 1 and Dashboard 2
-![Image](https://github.com/user-attachments/assets/e006edc0-005a-40e3-9166-b0bc163637ce)
+## Image of Dashboard 1
 ![Image](https://github.com/user-attachments/assets/a2677b04-5edd-4ea3-b112-372afe63e253)
 
+## Image of Dashboard 2
+![Image](https://github.com/user-attachments/assets/e006edc0-005a-40e3-9166-b0bc163637ce)
