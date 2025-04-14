@@ -61,10 +61,10 @@ To deliver data-driven insights on vehicle sales performance, cost efficiency, a
 ## Image of sales revenue by months in a line chart
 ![Image](https://github.com/user-attachments/assets/8f975f51-7727-475c-a899-b8ac5b928eb5)
 
-Image of TCO by model names in a column stacked column chart
+## Image of TCO by model names in a column stacked column chart
 
 ![Image](https://github.com/user-attachments/assets/d7c8cba2-f14b-4d3d-9c1b-586ea8b8b270)
 
-Image of average of selling price per unit by warranty status
+## Image of average of selling price per unit by warranty status
 
 ![Image](https://github.com/user-attachments/assets/01e0d819-1681-4caf-899f-05d9ed45f3cb)
