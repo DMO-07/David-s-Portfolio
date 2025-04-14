@@ -67,4 +67,4 @@ Image of TCO by model names in a column stacked column chart
 
 Image of average of selling price per unit by warranty status
 
-![Image](https://github.com/user-attachments/assets/e8d6c14f-f706-4057-81aa-0aec51a11106)
+![Image](https://github.com/user-attachments/assets/01e0d819-1681-4caf-899f-05d9ed45f3cb)
