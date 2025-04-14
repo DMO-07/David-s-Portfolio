@@ -1,5 +1,6 @@
 # David-s-Portfolio
 
+
 # GREEN WHEEL ANALYSIS
 
 To deliver data-driven insights on vehicle sales performance, cost efficiency, and sustainability metrics to support strategic business decisions.
@@ -57,13 +58,13 @@ To deliver data-driven insights on vehicle sales performance, cost efficiency, a
 * Validated that slicers and filters worked across all visuals.
 * Ensured no data leakage or misalignment.
 
-## Image of sales revenue by months in a line Chart
+## Image of sales revenue by months in a line chart
 ![Image](https://github.com/user-attachments/assets/8f975f51-7727-475c-a899-b8ac5b928eb5)
 
+Image of TCO by model names in a column stacked column chart
 
+![Image](https://github.com/user-attachments/assets/d7c8cba2-f14b-4d3d-9c1b-586ea8b8b270)
 
+Image of average of selling price per unit by warranty status
 
-
-
-
-
+![Image](https://github.com/user-attachments/assets/e8d6c14f-f706-4057-81aa-0aec51a11106)
