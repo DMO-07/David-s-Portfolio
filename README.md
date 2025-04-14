@@ -66,4 +66,4 @@ To deliver data-driven insights on vehicle sales performance, cost efficiency, a
 
 ### Image of average of selling price per unit by warranty status
 
-![Image](https://github.com/user-attachments/assets/e8d6c14f-f706-4057-81aa-0aec51a11106)
+![Image](https://github.com/user-attachments/assets/bd2a917f-cce5-4db9-b3c6-83caf38e5389)
