@@ -1,5 +1,3 @@
-# Olufolahan David Majayi Portfolio
-
 # GREEN WHEEL ANALYSIS
 
 To deliver data-driven insights on vehicle sales performance, cost efficiency, and sustainability metrics to support strategic business decisions.
